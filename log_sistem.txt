@@ -1,0 +1,7 @@
+<html><head><meta charset='UTF-8'></head><body style='font-family: Arial; background: #222; color: #fff; padding: 20px;'>
+<h1 style='color: #4CAF50;'>Dashboard Monitoring</h1>
+<div style='border: 1px solid #555; padding: 15px; border-radius: 8px;'>
+<p><strong>Waktu Update:</strong> Tue Dec 30 14:40:46 WIB 2025</p>
+<p><strong>Penggunaan Disk:</strong> <span style='font-size: 24px;'>1%</span></p>
+<p style='color: #00C851;'>✅ Status Disk: Aman.</p>
+</div></body></html>
